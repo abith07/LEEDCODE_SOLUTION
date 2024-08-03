@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0001-two-sum) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0001-two-sum) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3044-minimum-operations-to-collect-elements) |
 <!---LeetCode Topics End-->
