@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0001-two-sum) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
 | ------- |
