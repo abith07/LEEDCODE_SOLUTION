@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0040-combination-sum-ii) |
 | [1944-truncate-sentence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1944-truncate-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0035-search-insert-position) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
