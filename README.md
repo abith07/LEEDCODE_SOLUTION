@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0067-add-binary) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3312-number-of-changing-keys](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3312-number-of-changing-keys) |
 ## Trie
 |  |
 | ------- |
