@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0055-jump-game) |
 | [1944-truncate-sentence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1944-truncate-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
