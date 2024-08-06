@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0125-valid-palindrome) |
 | [1944-truncate-sentence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
