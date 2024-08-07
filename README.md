@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1944-truncate-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0067-add-binary) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
 |  |
 | ------- |
