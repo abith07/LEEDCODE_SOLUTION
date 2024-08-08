@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0048-rotate-image) |
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
