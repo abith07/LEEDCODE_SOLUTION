@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
