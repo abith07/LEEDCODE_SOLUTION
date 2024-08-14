@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0242-valid-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0242-valid-anagram) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1944-truncate-sentence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0145-binary-tree-postorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
