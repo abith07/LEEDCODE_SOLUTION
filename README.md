@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1944-truncate-sentence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1944-truncate-sentence) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0118-pascals-triangle) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Greedy
 |  |
 | ------- |
