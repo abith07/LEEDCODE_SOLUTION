@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0125-valid-palindrome) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1944-truncate-sentence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
