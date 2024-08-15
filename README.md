@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-minimum-operations-to-collect-elements](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0090-subsets-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Counting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0118-pascals-triangle) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Greedy
 |  |
 | ------- |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0242-valid-anagram) |
+## Bitmask
+|  |
+| ------- |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3431-find-the-minimum-cost-array-permutation) |
 <!---LeetCode Topics End-->
