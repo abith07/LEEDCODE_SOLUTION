@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0128-longest-consecutive-sequence) |
+| [0179-largest-number](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0179-largest-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1944-truncate-sentence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1944-truncate-sentence) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0242-valid-anagram) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0778-reorganize-string](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0778-reorganize-string) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0778-reorganize-string) |
 ## Union Find
 |  |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0778-reorganize-string) |
 ## Bitmask
