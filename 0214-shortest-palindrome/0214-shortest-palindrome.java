@@ -1,55 +1,38 @@
 class Solution {
     public String shortestPalindrome(String s) {
-        int n=s.length();
-        if(n==0){return s;}
-        if(isPal(s)){return s;}
-        // find the length of largest pal
-        // if there is no pal i=1 
-        //else i=last index of largest pal
-        int i=largest_pal_length(s);
-        String r=rev(s.substring(i));
+        if(s.length()==0||s.length()==1){
+            return s;
+        }
+        char[] ch = s.toCharArray();
 
-         // int i=1;
-        /*  while(!isPal(s))
-          {
-             s=s.charAt(i)+s;
-             i+=2;
-          }*/
+        StringBuilder find = new StringBuilder();
+        char a = ch[0];
+        int i;
 
-        return r+s;
-       
+        for (i = ch.length - 1; i >= 0; i--) {
+            if (a == ch[i]) {
+                if (isPal(s.substring(0, i + 1))) {
+                    break;
+                }
+            }
+        }
+
+        for (int j = ch.length - 1; j > i; j--) {
+            find.append(ch[j]);
+        }
+
+        return find.toString() + s;
     }
-    public boolean isPal(String str)
-    {
-        int s=0,e=str.length()-1;
-        while(s<e)
-        {
-            if(str.charAt(s)!=str.charAt(e))
-            {
+
+    public boolean isPal(String str) {
+        int s = 0, e = str.length() - 1;
+        while (s < e) {
+            if (str.charAt(s) != str.charAt(e)) {
                 return false;
             }
-            s++;e--;
+            s++;
+            e--;
         }
         return true;
-
-    }
-    public int largest_pal_length(String str)
-    {
-        int n=str.length();
-        for(int i=n;i>=1;i--)
-        {
-            if(isPal(str.substring(0,i)))
-            {
-                return i;
-            }
-        }
-        return 1;
-    }
-
-    //reverse
-    public String rev(String str)
-    {
-         String reversed = new StringBuilder(str).reverse().toString();
-          return reversed; 
     }
 }
