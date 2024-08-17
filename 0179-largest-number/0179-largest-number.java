@@ -1,32 +1,37 @@
+import java.math.BigInteger;
 class Solution {
     public String largestNumber(int[] nums) {
-        // Convert each integer to string
-        String[] numStrings = new String[nums.length];
-        for (int i = 0; i < nums.length; i++) {
-            numStrings[i] = String.valueOf(nums[i]);
+        String s[] = new String[nums.length];
+        for(int i=0;i<nums.length;i++){
+            s[i] = String.valueOf(nums[i]);
         }
-        
-        // Sort strings using custom comparator
-        Arrays.sort(numStrings, new Comparator<String>() {
-            @Override
-            public int compare(String n1, String n2) {
-                String order1 = n1 + n2;
-                String order2 = n2 + n1;
-                return order2.compareTo(order1); // Sort in descending order
+       int n=nums.length;
+        for(int k=0;k<n;k++)
+        {
+            String max=s[0];  
+            for(int i=1;i<n-k;i++)
+            {
+                BigInteger a = new BigInteger(max + s[i]);
+                BigInteger b = new BigInteger(s[i] + max);
+                if(a.compareTo(b) < 0)
+                {
+                   max=s[i];
+                }
+                else
+                {
+                     String temp=s[i];
+                    s[i]=max;
+                    s[i-1]=temp;
+                    
+                }
             }
-        });
-        
-        // Handle edge case where the largest number is "0"
-        if (numStrings[0].equals("0")) {
-            return "0";
         }
-        
-        // Concatenate sorted strings to form the largest number
-        StringBuilder largestNumber = new StringBuilder();
-        for (String numString : numStrings) {
-            largestNumber.append(numString);
+            
+       String ans="";
+        for(int i=n-1;i>=0;i--){
+            ans+=s[i];
         }
-        
-        return largestNumber.toString();
+        return ans.charAt(0)=='0'?"0" : ans;
+       
     }
 }
