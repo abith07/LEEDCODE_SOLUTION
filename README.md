@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0128-longest-consecutive-sequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0242-valid-anagram) |
@@ -121,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0090-subsets-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
