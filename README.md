@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0179-largest-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1944-truncate-sentence) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0778-reorganize-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0242-valid-anagram) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0778-reorganize-string](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0778-reorganize-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0090-subsets-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Counting
