@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0242-valid-anagram) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0778-reorganize-string](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0812-rotate-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
