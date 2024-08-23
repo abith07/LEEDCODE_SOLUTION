@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0179-largest-number) |
+| [0841-shortest-distance-to-a-character](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0841-shortest-distance-to-a-character) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1944-truncate-sentence) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0778-reorganize-string](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0812-rotate-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0841-shortest-distance-to-a-character) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0234-palindrome-linked-list) |
+| [0841-shortest-distance-to-a-character](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/abith07/LEEDCODE_SOLUTION/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
